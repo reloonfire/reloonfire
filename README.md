@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, i'm Lorenzo aka reloonfire and i'm currently a student at UniMib.
+
 <!--
 **reloonfire/reloonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
