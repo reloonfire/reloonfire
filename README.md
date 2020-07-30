@@ -2,7 +2,7 @@
 
 Hi, i'm Lorenzo aka reloonfire and i'm currently a student at UniMib.
 
-- 🔭 I’m currently working on 2 main projects: NoNameGame and (ROFLang)[https://github.com/reloonfire/rof-language]
+- 🔭 I’m currently working on 2 main projects: NoNameGame and [ROFLang](https://github.com/reloonfire/rof-language)
 <!--
 **reloonfire/reloonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
