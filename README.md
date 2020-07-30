@@ -12,7 +12,7 @@ Hi, i'm Lorenzo aka reloonfire (19 Years old) and i'm currently a student at Uni
 🌱 I’m currently learning Golang, Java, PHP
 
 📫 How to reach me:
-    - [Twitter](https://twitter.com/relonfireit)
+    - [Twitter](https://twitter.com/reloonfireit)
     - [Telegram](https://t.me/reloonfire)
 <!--
 **reloonfire/reloonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
