@@ -14,6 +14,8 @@ Hi, i'm Lorenzo aka reloonfire (19 Years old) and i'm currently a student at Uni
 📫 How to reach me:
     - [Twitter](https://twitter.com/reloonfireit)
     - [Telegram](https://t.me/reloonfire)
+    
+![Stats](https://github-readme-stats.vercel.app/api?username=reloonfire&show_icons=true)
 <!--
 **reloonfire/reloonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
