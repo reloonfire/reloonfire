@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Hi, i'm Lorenzo aka reloonfire (19 Years old) and i'm currently a student at UniMib.
+Hi, i'm Lorenzo aka reloonfire (19 Years old) and i'm currently a CS student @UniMib.
 
 
 ### Current Projects
 🔭 I’m currently working on 2 main projects: NoNameGame and [ROFLang](https://github.com/reloonfire/rof-language)
 ### About that
-  - ROFLang ROF is a an interpreted, dynamically-typed and simple language. (Like the README says)
+  - ROF is a an interpreted, dynamically-typed and simple language, developed in order to practice with different languages (i have tried to implement a version in C++ and GoLang). (Like the README says)
    - NoNameGame is a game (as the name implies), but it is a private project so shhh
    
 🌱 I’m currently learning Golang, Java, PHP
