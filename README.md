@@ -5,7 +5,7 @@ Game enthusiast and aspiring game developer/game engine dev.
 
 
 ### Current Projects
-🔭 I’m currently working on 1 main projects: NoNameGame and other side projects just for fun (like plugins for [alemibot](https://github.com/alemigliardi/alemibot)!
+🔭 I’m currently working on 1 main projects: NoNameGame and other side projects just for fun (like plugins for [alemibot](https://github.com/alemigliardi/alemibot))!
 ### About that
    - NoNameGame is a game (as the name implies), but it is a private project so shhh
    
