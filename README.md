@@ -9,7 +9,7 @@ Game enthusiast and aspiring game developer/game engine dev.
 ### About that
    - NoNameGame is a game (as the name implies), but it is a private project so shhh
    
-🌱 I’m currently learning Golang, Java, PHP and C++
+🌱 I’m currently learning Golang, Java, Rust and C++
 
 📫 How to reach me:
     - [Twitter](https://twitter.com/reloonfireit)
