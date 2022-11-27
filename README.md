@@ -2,12 +2,6 @@
 
 Hi, i'm Lorenzo aka reloonfire (20 y.o) and i'm currently a CS student @UniMib.
 Game enthusiast and aspiring game developer/game engine dev.
-
-
-### Current Projects
-🔭 I’m currently working on 1 main projects: NoNameGame and other side projects just for fun!
-### About that
-   - NoNameGame is a game (as the name implies), but it is a private project so shhh
    
 🌱 I’m currently learning Golang, Java, Rust and C++
 
