@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, i'm Lorenzo aka reloonfire (20 y.o) and i'm currently a CS student @UniMib.
+Hi, i'm Lorenzo aka reloonfire (21 y.o) and i'm currently a CS student @UniMib.
 Game enthusiast and aspiring game developer/game engine dev.
    
 🌱 I’m currently learning Golang, Java, Rust and C++
