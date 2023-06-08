@@ -8,6 +8,7 @@ Game enthusiast and aspiring game developer/game engine dev.
 📫 How to reach me:
     - [Twitter](https://twitter.com/reloonfireit)
     - [Telegram](https://t.me/reloonfire)
+    - [LinkedIn](https://www.linkedin.com/in/lorenzoavallone)
     
 ![Stats](https://github-readme-stats.vercel.app/api?username=reloonfire&show_icons=true)
 <!--
