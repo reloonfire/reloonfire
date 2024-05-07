@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-Hi, i'm Lorenzo aka reloonfire (21 y.o) and i'm currently a CS student @UniMib.
-Game enthusiast and aspiring game developer/game engine dev.
-   
-🌱 I’m currently learning Golang, Java, Rust and C++
+Go Monkey during the day 🐒
+I like microservices, bugs, SEGMENTATION FAULT and everything related to data intensive architecture.
 
 📫 How to reach me:
     - [Twitter](https://twitter.com/reloonfireit)
